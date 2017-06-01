@@ -21,7 +21,7 @@ This [video](https://www.youtube.com/watch?v=pCTJ6GF-eNc&feature=youtu.be) descr
 ## Technical Report
 
 The full [technical report](https://github.com/Utilidex/projectx-flexchange/blob/master/Harnessing%20distributed%20ledgers%20to%20develop%20a%20trusted%20platform%20for%20the%20energy%20market%20-%20FINAL.pdf) describes many of the considerations and decisions made.
-]
+
 ## If you would like to look at the source code and scripts
 
 **Given the tight time constraints and the learning journey, the implementation is provided as-is as sample code only for reference. If you decide to build on it, we highly recommend you conduct a full code review and decide if it is usable for your purposes.**
