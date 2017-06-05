@@ -89,6 +89,16 @@ To trace execution and for debugging, set the project to ServerDebug and redeplo
 Failed to acquire token silently as no token was found in the cache. Call method AcquireToken 
 ```
 2. If you would like to debug locally then you will need to add localhost addresses to the Reply URL list in the relevant application registrations on Azure Active Directory. E.g. https://localhost:44354/. Changes will also need to be made to the Azure Active Directory configuration values in web.config (e.g. RedirectURL).
+3. A simpler way to debug the code is to Publish a ServerDebug version. You can then use Cloud Explorer in Visual Studio 2017 to attach the debugger and remote debug the Web App or API. Due to time limitations, error checking and reporting in the solution is rudimentary and this provides the best way to inspect and step through the code.
+4. There are times when you may want to verify connectivity between two points in the deployment. For example, between the API apps and the transaction node JSON RPC endpoint. To do this, open a console session up within the App Service via the Azure portal and use tcpping to see if the endpoints are reachable. The following is sample output from a successful connection.
+```
+D:\home\site\wwwroot> tcpping 10.0.1.4:8545
+Connected to 10.0.1.4:8545, time taken: 31ms
+Connected to 10.0.1.4:8545, time taken: <1ms
+Connected to 10.0.1.4:8545, time taken: <1ms
+Connected to 10.0.1.4:8545, time taken: <1ms
+Complete: 4/4 successfull attempts (100%). Average success time: 7.75ms
+```
 
 # Contributors
 
