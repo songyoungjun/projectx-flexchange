@@ -37,11 +37,9 @@ https://github.com/utilidex/projectx-flexchange-active-directory | Azure Active 
 https://github.com/utilidex/projectx-flexchange-core-apps | Core deployment Web and API Applications.
 https://github.com/utilidex/projectx-flexchange-member-apps | Member deployment Web and API Applications.
 https://github.com/utilidex/projectx-flexchange-vmss-automation | Automation scripts to start / stop Ethereum nodes.
-https://github.com/utilidex/projectx-flexchange-arm-templates | Core ARM templates for Ethereum.
 https://github.com/utilidex/projectx-flexchange-dev-vm | DevVm/Jump Box in the Initial Deployment.
 https://github.com/utilidex/projectx-flexchange-keystore-backup | Service to backup keystore.
 https://github.com/utilidex/projectx-flexchange-client-watchdog | Service to monitor and restart Ethereum Geth clients on stalled nodes.
-https://github.com/utilidex/projectx-flexchange-hackfest-images | Docker images for Ethereum Geth nodes. Forked from EthereumEx to add additional services to the image (key backup and monitoring).
 https://github.com/utilidex/projectx-flexchange-member-services | ARM template and PS scripts for App Services components in member deployments and integration to existing VNet.
 https://github.com/utilidex/projectx-flexchange-build-automation | Scripts to assist in the build and deployment of smart contracts using Truffle
 
