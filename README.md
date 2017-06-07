@@ -1,4 +1,4 @@
-# projectx-flexchange
+﻿# projectx-flexchange
 
 **Please note that this is a work-in-progress and the repository will be updated over time.**
 
@@ -99,6 +99,7 @@ Connected to 10.0.1.4:8545, time taken: <1ms
 Connected to 10.0.1.4:8545, time taken: <1ms
 Complete: 4/4 successfull attempts (100%). Average success time: 7.75ms
 ```
+5. If you would like to disable authorization checks on the Core or Member APIs, just comment out the [Authorize] attributes over the functions in the respective controllers.
 
 # Contributors
 
