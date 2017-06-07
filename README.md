@@ -41,7 +41,6 @@ https://github.com/utilidex/projectx-flexchange-dev-vm | DevVm/Jump Box in the I
 https://github.com/utilidex/projectx-flexchange-keystore-backup | Service to backup keystore.
 https://github.com/utilidex/projectx-flexchange-client-watchdog | Service to monitor and restart Ethereum Geth clients on stalled nodes.
 https://github.com/utilidex/projectx-flexchange-member-services | ARM template and PS scripts for App Services components in member deployments and integration to existing VNet.
-https://github.com/utilidex/projectx-flexchange-build-automation | Scripts to assist in the build and deployment of smart contracts using Truffle
 
 ## If you would like to try the solution out
 
