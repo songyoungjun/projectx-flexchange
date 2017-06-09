@@ -16,7 +16,7 @@ Utilidex has been working with Microsoft for several years.  This paper is the o
 
 ## Video Summary
 
-This [video](https://www.youtube.com/watch?v=pCTJ6GF-eNc&feature=youtu.be) describes the outcome of the workshop.
+This [video](https://www.youtube.com/watch?v=aZqUOk8xT8o) describes the outcome of the workshop.
 
 ## Technical Report
 
